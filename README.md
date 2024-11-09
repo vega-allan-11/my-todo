@@ -41,3 +41,5 @@ Happy to share and receive feedback! 💡
 
 ### 4. run the project
 - php artisan serve
+- put /login in the URL to go to the Login page
+
