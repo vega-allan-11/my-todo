@@ -26,9 +26,6 @@ Happy to share and receive feedback! 💡
 
 ### 1. Clone the repo
 
-- git clone https://github.com/usuario/nombre-del-repositorio.git
-- cd nombre-del-repositorio
-
 ### 2. Install dependencies
 - composer install
 - npm install
