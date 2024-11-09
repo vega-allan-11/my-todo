@@ -19,7 +19,7 @@ Happy to share and receive feedback! 💡
 - [Git](https://git-scm.com/downloads)
 - [Composer](https://getcomposer.org/download/)
 - [PHP](https://www.php.net/downloads.php) >= 7.3
-- [Node.js y npm](https://nodejs.org/en/download/) para el frontend (si es necesario)
+- [Node.js y npm](https://nodejs.org/en/download/) 
 - [Laravel](https://laravel.com/docs/installation) v.11
 
 ## installation and configuration
