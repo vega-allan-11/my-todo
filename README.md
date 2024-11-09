@@ -20,7 +20,7 @@ Happy to share and receive feedback! 💡
 - [Composer](https://getcomposer.org/download/)
 - [PHP](https://www.php.net/downloads.php) >= 7.3
 - [Node.js y npm](https://nodejs.org/en/download/) para el frontend (si es necesario)
-- [Laravel](https://laravel.com/docs/installation) >= 8
+- [Laravel](https://laravel.com/docs/installation) v.11
 
 ## installation and configuration
 
