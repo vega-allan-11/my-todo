@@ -80,7 +80,7 @@ public function show(Request $request)
             'is_completed' => 'nullable|boolean',
         ]);
 
-        // Creat a task for the user authenticated
+        // Create a task for the user authenticated
         Auth::user()->tasks()->create($validatedData);
 
         return redirect()->route('tasks')->with('success', 'Task created successfully.');
